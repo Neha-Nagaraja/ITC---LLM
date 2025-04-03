@@ -1,5 +1,3 @@
-# ITC---LLM
-
 # ITC-599-004 — Homework Assignment #2: Prompting Techniques with LLMs  
 **Topic:** Foundations and Applications of Large Language Models  
 **Author:** Neha Nagaraja  
