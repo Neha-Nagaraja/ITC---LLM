@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) Unlimited storage capacity",
+    "normalized_answer": "a",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 2,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) Amazon EC2",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 3,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) Relational",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 4,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) Amazon CloudFront",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 5,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) Identity and Access Management",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 6,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) AWS Redshift",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 7,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) Amazon VPC",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 8,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Amazon SageMaker",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 9,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) Auditing and tracking API activity",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 10,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) Amazon EC2 Auto Scaling",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Running code without provisioning or managing servers",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 12,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Amazon SES",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 13,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) Amazon S3",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 14,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Automating the deployment of infrastructure as code\n\nAWS CloudFormation is a service that allows users to define and provision infrastructure resources in a declarative way using templates. It helps automate the process of setting up and managing resources in the AWS cloud, making it easier to deploy and manage infrastructure as code.",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 15,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) Amazon DynamoDB",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 16,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) AWS CloudWatch",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 17,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) AWS Secrets Manager",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 18,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) Amazon VPC",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 19,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Amazon QuickSight",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 20,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) AWS Amplify",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 21,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) Amazon Kinesis",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 22,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) AWS Glue",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 23,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Simplifying the deployment of web applications",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 24,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) AWS Lambda",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 25,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "a) AWS RDS",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 26,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) AWS Direct Connect",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 27,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) AWS Backup",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 28,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) Amazon EKS",
+    "normalized_answer": "b",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 29,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "d) Delivering content to users with low latency from edge locations",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 30,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "c) Amazon EFS",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 31,
+    "llm": "gpt-3.5-turbo",
+    "prompt_type": "standard",
+    "response": "b) Amazon SQS",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  }
+]

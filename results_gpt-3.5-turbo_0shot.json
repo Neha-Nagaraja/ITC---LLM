@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) Unlimited storage capacity",
+    "normalized_answer": "a",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 2,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) Amazon EC2",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 3,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) Relational",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 4,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) Amazon CloudFront",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 5,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) Identity and Access Management",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 6,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) AWS Redshift",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 7,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) Amazon VPC",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 8,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Amazon SageMaker",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 9,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) Auditing and tracking API activity\n\nAWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. It tracks and logs all API activity within your AWS account, providing visibility into actions taken by users, applications, and services. This helps in monitoring and ensuring security, compliance, and operational best practices within the AWS environment.",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 10,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) Amazon EC2 Auto Scaling",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Running code without provisioning or managing servers\n\nAWS Lambda is a serverless computing service provided by Amazon Web Services that allows users to run code without having to provision or manage servers. It is designed to help developers build applications that respond to events and triggers, and can automatically scale based on the incoming workload.",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 12,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Amazon SES",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 13,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) Amazon S3",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 14,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Automating the deployment of infrastructure as code\n\nAWS CloudFormation is a service that allows you to define and provision your AWS infrastructure as code. It helps automate the process of setting up and managing resources in the cloud, making it easier to deploy and manage complex infrastructure configurations.",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 15,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) Amazon DynamoDB",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 16,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) AWS CloudWatch",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 17,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) AWS Secrets Manager",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 18,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) Amazon VPC",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 19,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Amazon QuickSight",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 20,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) AWS Amplify",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 21,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) Amazon Kinesis",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 22,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) AWS Glue",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 23,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Simplifying the deployment of web applications",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 24,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) AWS Lambda",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 25,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "a) AWS RDS",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 26,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) AWS Direct Connect",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 27,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) AWS Backup",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 28,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) Amazon EKS\n\nAmazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy for you to run Kubernetes on AWS without needing to install, operate, and maintain your own Kubernetes control plane. It can be used to manage and monitor containerized applications running on Kubernetes clusters.",
+    "normalized_answer": "b",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 29,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "d) Delivering content to users with low latency from edge locations\n\nAWS CloudFront is a content delivery network (CDN) service that helps deliver content, such as web pages, videos, applications, and APIs, to users with low latency and high transfer speeds. It uses a global network of edge locations to cache and deliver content closer to users, reducing the time it takes for content to reach them. This helps improve the overall user experience and performance of websites and applications.",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 30,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "c) Amazon EFS",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 31,
+    "llm": "gpt-3.5-turbo",
+    "shot": 0,
+    "response": "b) Amazon SQS",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  }
+]

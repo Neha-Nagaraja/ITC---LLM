@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) Automatic data encryption",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 2,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) Amazon EC2",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 3,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 4,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "a) Amazon CloudFront",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 5,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) Identity and Access Management",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 6,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) AWS Redshift",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 7,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "a) Amazon VPC",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 8,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d) Amazon SageMaker",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 9,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) Auditing and tracking API activity",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 10,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) Amazon EC2 Auto Scaling",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d) Running code without provisioning or managing servers",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 12,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d) Amazon SES",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 13,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "a) Amazon S3",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 14,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d) Automating the deployment of infrastructure as code",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 15,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) Amazon DynamoDB",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 16,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) AWS CloudWatch",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 17,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "a) AWS Secrets Manager",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 18,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) Amazon VPC",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 19,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 20,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "a) AWS Amplify",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 21,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": ": c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 22,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) AWS Glue",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 23,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 24,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) AWS Lambda",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 25,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "a) AWS RDS",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 26,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) AWS Direct Connect",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 27,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b (AWS Backup)",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 28,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) Amazon ECS",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 29,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 30,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "c) Amazon EFS",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 31,
+    "llm": "gpt-3.5-turbo",
+    "shot": 10,
+    "response": "b) Amazon SQS",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  }
+]

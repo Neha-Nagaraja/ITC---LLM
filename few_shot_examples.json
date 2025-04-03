@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Which AWS service is primarily used for scalable object storage?",
+      "options": {
+        "a": "Amazon EBS",
+        "b": "Amazon EC2",
+        "c": "Amazon S3",
+        "d": "Amazon RDS"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "What AWS service allows you to run containerized applications at scale?",
+      "options": {
+        "a": "Amazon EC2",
+        "b": "Amazon Route 53",
+        "c": "Amazon CloudFront",
+        "d": "Amazon ECS"
+      },
+      "answer": "d"
+    },
+    {
+      "question": "Which service is used to create isolated networks in AWS?",
+      "options": {
+        "a": "AWS IAM",
+        "b": "Amazon VPC",
+        "c": "Amazon CloudTrail",
+        "d": "Amazon Redshift"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which AWS service is a fully managed NoSQL database?",
+      "options": {
+        "a": "Amazon RDS",
+        "b": "Amazon Neptune",
+        "c": "Amazon DynamoDB",
+        "d": "Amazon Aurora"
+      },
+      "answer": "c"
+    },
+    {
+      "question": "Which AWS service is designed for long-term archival storage?",
+      "options": {
+        "a": "Amazon Glacier",
+        "b": "Amazon S3 Standard",
+        "c": "Amazon EFS",
+        "d": "Amazon CloudFront"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which service is best suited for deploying serverless applications?",
+      "options": {
+        "a": "Amazon EC2",
+        "b": "AWS Lambda",
+        "c": "Amazon EBS",
+        "d": "Amazon CloudWatch"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "What AWS service provides a managed MySQL database engine?",
+      "options": {
+        "a": "Amazon Aurora",
+        "b": "Amazon DynamoDB",
+        "c": "Amazon Redshift",
+        "d": "Amazon S3"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which AWS service provides global DNS resolution?",
+      "options": {
+        "a": "Amazon Route 53",
+        "b": "Amazon CloudFront",
+        "c": "Amazon API Gateway",
+        "d": "Amazon VPC"
+      },
+      "answer": "a"
+    },
+    {
+      "question": "Which AWS service provides centralized logging for AWS resources?",
+      "options": {
+        "a": "AWS Config",
+        "b": "AWS CloudWatch",
+        "c": "AWS IAM",
+        "d": "AWS Lambda"
+      },
+      "answer": "b"
+    },
+    {
+      "question": "Which AWS service allows sending SMS, email, and push notifications?",
+      "options": {
+        "a": "Amazon SQS",
+        "b": "Amazon SES",
+        "c": "Amazon SNS",
+        "d": "Amazon EC2"
+      },
+      "answer": "c"
+    }
+  ]
+  

@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 2,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 3,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 4,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 5,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 6,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 7,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 8,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 9,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 10,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 12,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 13,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 14,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 15,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 16,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 17,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 18,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 19,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 20,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 21,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 22,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 23,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 24,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 25,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "a",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 26,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 27,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 28,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 29,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "d",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 30,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "c",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 31,
+    "llm": "claude-3-5-sonnet",
+    "prompt_type": "role",
+    "response": "b",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  }
+]

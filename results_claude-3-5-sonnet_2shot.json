@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: a) Unlimited storage capacity\n\nExplanation:\nOne of the key benefits of using Amazon S3 (Simple Storage Service) is its virtually unlimited storage capacity. Here's why this is a significant benefit:\n\n1. Scalability: S3 allows you to store and retrieve any amount of data from anywhere on the web without worrying about capacity constraints.\n\n2. No Pre-provisioning: Unlike traditional storage systems, you don't need to pre",
+    "normalized_answer": "a",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 2,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is c) Amazon EC2.\n\nExplanation:\nAmazon Elastic Compute Cloud (EC2) is AWS's primary service for launching and managing virtual servers (instances) in the cloud. Here's why EC2 is the correct answer:\n\n1. EC2 provides:\n- Resizable compute capacity in the cloud\n- Complete control over virtual computing resources\n- Multiple instance types optimized for different use cases\n- The ability to launch virtual servers with",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 3,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) Relational\n\nAmazon RDS stands for Amazon Relational Database Service.\n\nExplanation:\n- Amazon RDS (Relational Database Service) is a managed database service that makes it easier to set up, operate, and scale relational databases in the cloud.\n- The \"Relational\" in RDS refers to the type of databases it supports, which are relational databases like:\n  * MySQL\n  * PostgreSQL",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 4,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: a) Amazon CloudFront\n\nExplanation:\nAmazon CloudFront is AWS's content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. Here's why CloudFront is the right answer:\n\n1. Global Distribution: CloudFront uses a worldwide network of edge locations to cache and serve content closer to end users.\n\n2. Performance Improvement: By",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 5,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is b) Identity and Access Management\n\nExplanation:\nIAM (Identity and Access Management) is a fundamental AWS service that enables you to:\n\n1. Manage access to AWS services and resources securely\n2. Create and manage AWS users and groups\n3. Set up permissions using policies\n4. Implement the principle of least privilege\n5. Control who is authenticated (signed in) and authorized (has permissions) to use AWS resources\n\nThe term \"Identity",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 6,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is c) AWS Redshift\n\nExplanation:\nAmazon Redshift is AWS's fully managed, petabyte-scale data warehouse service that makes it simple and cost-effective to analyze large volumes of data using standard SQL and existing Business Intelligence (BI) tools. It is:\n\n1. Fully Managed: AWS handles all the work of setting up, operating, and scaling the data warehouse\n\n2. Scalable: Can start with just a few",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 7,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: a) Amazon VPC\n\nExplanation:\nAmazon Virtual Private Cloud (VPC) is the AWS service used to create and manage virtual private networks in the cloud. Here's why this is the correct answer:\n\n1. Amazon VPC allows you to:\n- Create an isolated section of the AWS Cloud\n- Launch AWS resources in a virtual network that you define\n- Configure network settings, including IP address ranges, subnets, and routing tables\n-",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 8,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is d) Amazon SageMaker.\n\nExplanation:\nAmazon SageMaker is AWS's fully managed service specifically designed for machine learning workflows. It provides the following key features:\n\n1. Build: \n- Provides notebooks for data exploration\n- Tools for data preparation\n- Built-in algorithms and frameworks\n- Integrated development environments (IDEs)\n\n2. Train:\n- Managed training infrastructure\n- Distributed training capabilities\n-",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 9,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: c) Auditing and tracking API activity\n\nExplanation:\nAWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. It primarily:\n\n1. Records and tracks all API activity across your AWS infrastructure\n2. Logs who made what changes, when, and from where\n3. Maintains detailed API activity history for security analysis\n4. Helps with security analysis and troublesho",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 10,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) Amazon EC2 Auto Scaling\n\nExplanation:\nAmazon EC2 Auto Scaling is the AWS service specifically designed to automatically scale EC2 instances based on demand. Here's why this is the correct answer:\n\n1. EC2 Auto Scaling helps to:\n- Automatically increase the number of EC2 instances during demand spikes to maintain performance\n- Automatically decrease the number of EC2 instances during demand drops to minimize",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: d) Running code without provisioning or managing servers\n\nExplanation:\nAWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. Key features and benefits of AWS Lambda include:\n\n1. Serverless Architecture: You don't need to manage any infrastructure; AWS handles all the underlying compute resources.\n\n2. Event-Driven: Lambda functions can be triggered by various AWS services or events automatically.\n\n3. Pay-",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 12,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: d) Amazon SES\n\nExplanation:\nAmazon Simple Email Service (Amazon SES) is the AWS service specifically designed for sending emails. Here's why it's the correct answer:\n\n1. Amazon SES (Simple Email Service) is a cloud-based email sending service that:\n- Allows you to send marketing, notification, and transactional emails\n- Provides high deliverability rates\n- Includes features for tracking bounces, complaints",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 13,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: a) Amazon S3\n\nExplanation:\nAmazon S3 (Simple Storage Service) can be used to host static websites. Here's why this is the correct answer:\n\n1. Static Website Hosting Feature: S3 has a built-in feature specifically designed for hosting static websites, allowing you to serve HTML, CSS, JavaScript, images, and other static content.\n\n2. Cost-Effective: Since you only pay for the storage used an",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 14,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: d) Automating the deployment of infrastructure as code\n\nExplanation:\nAWS CloudFormation is a service that helps you model and set up your AWS resources so you can spend less time managing those resources and more time focusing on your applications. Key features and benefits include:\n\n1. Infrastructure as Code (IaC):\n- Allows you to describe your infrastructure using a template file\n- Templates can be version controlled and reused\n- Ensures consistent",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 15,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: c) Amazon DynamoDB\n\nExplanation:\nAmazon DynamoDB is AWS's fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. Here's why it's the correct answer:\n\n1. Key characteristics of DynamoDB:\n- Fully managed NoSQL database\n- Supports both document and key-value data structures\n- Automatic scaling\n- Built-in security\n- Backup and restore capabilities",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 16,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: c) AWS CloudWatch\n\nExplanation:\nAWS CloudWatch is Amazon's primary monitoring and observability service that provides insights into application performance, resource utilization, and operational health. Here's why CloudWatch is the right answer:\n\n1. Key features of CloudWatch:\n- Real-time monitoring of AWS resources and applications\n- Collection and tracking of metrics\n- Setting alarms based on metrics\n- Creating dashboards for visualization\n- Log aggregation an",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 17,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: a) AWS Secrets Manager\n\nExplanation:\nAWS Secrets Manager is specifically designed to help you protect secrets needed to access your applications, services, and IT resources. It enables you to:\n\n1. Store and manage secrets securely:\n- Database credentials\n- API keys\n- OAuth tokens\n- Other sensitive information\n\n2. Key features:\n- Automatic secret rotation\n- Fine-grained access control\n- Encryption at rest and in",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 18,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is b) Amazon VPC\n\nExplanation:\nAmazon Virtual Private Cloud (VPC) is the AWS service that allows you to create and manage virtual networks in the cloud. Here's why:\n\n1. Amazon VPC lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.\n\n2. Key features of Amazon VPC include:\n- Complete control over your virtual networking environment\n- Ability to",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 19,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: d) Amazon QuickSight\n\nExplanation:\nAmazon QuickSight is AWS's business intelligence (BI) service that allows users to:\n\n1. Create and publish interactive dashboards\n2. Perform ad-hoc analysis of data\n3. Get business insights using visualizations\n4. Share these insights with others in their organization\n5. Connect to various data sources including AWS services, third-party databases, and spreadsheets",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 20,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "For the question \"What AWS service is commonly used for serverless backend development?\", the correct answer is missing from the given options. \n\nThe service most commonly used for serverless backend development in AWS is AWS Lambda, which isn't listed among the choices. Among the given options:\n\n- AWS Amplify is a development platform for building mobile and web applications\n- AWS Glue is a fully managed ETL (Extract, Transform, Load) service\n- AWS Data Pipeline is",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 21,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: c) Amazon Kinesis\n\nExplanation:\nAmazon Kinesis is AWS's service designed specifically for real-time processing of streaming data. Here's why it's the correct answer:\n\n1. Real-time Processing: Kinesis can handle real-time streaming data from thousands of sources simultaneously, making it ideal for stream processing applications.\n\n2. Key Features:\n- Can process large amounts of data records per second\n- Enables real-time",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 22,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) AWS Glue\n\nExplanation:\nAWS Glue is a fully managed, serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development. Here's why AWS Glue is the correct answer:\n\nKey features of AWS Glue:\n1. Serverless ETL (Extract, Transform, Load) service\n2. Automatically discovers and catalogs metadata about",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 23,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: d) Simplifying the deployment of web applications\n\nExplanation:\nAWS Elastic Beanstalk is a Platform as a Service (PaaS) offering that simplifies the deployment and management of web applications. Here's why this is the correct answer:\n\n1. Easy deployment: Elastic Beanstalk handles the deployment details of capacity provisioning, load balancing, auto-scaling, and application health monitoring automatically.\n\n2. Developer",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 24,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) AWS Lambda\n\nExplanation:\nAWS Lambda is Amazon's serverless compute service that lets you run code without provisioning or managing servers. It's considered \"serverless\" because:\n\n1. You don't need to manage any servers\n2. It automatically scales based on the number of incoming requests\n3. You only pay for the compute time you consume\n4. It can be triggered by various AWS services and events\n\nKey features of AWS Lambda:",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 25,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: a) AWS RDS\n\nExplanation:\nAmazon Relational Database Service (RDS) is a fully managed relational database service that provides:\n\n1. Automated administration tasks such as:\n- Hardware provisioning\n- Database setup\n- Patching\n- Backups\n\n2. Support for multiple database engines including:\n- MySQL\n- PostgreSQL\n- Oracle\n- SQL Server\n- MariaDB\n- Amazon Aurora\n\n3",
+    "normalized_answer": "a",
+    "correct_answer": "a",
+    "is_correct": true
+  },
+  {
+    "id": 26,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) AWS Direct Connect\n\nExplanation:\nAWS Direct Connect is the service specifically designed to establish a dedicated network connection between an on-premises data center and AWS. Here's why it's the right choice:\n\n1. AWS Direct Connect provides:\n- A dedicated private network connection\n- Consistent network performance\n- Reduced network costs\n- Increased bandwidth throughput\n- More predictable network latency\n\n2. The other options are different services:",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 27,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) AWS Backup\n\nExplanation:\nAWS Backup is the service specifically designed to automatically backup and restore AWS resources, including EC2 instances. Here's why it's the correct answer:\n\n1. AWS Backup provides:\n- Centralized backup management\n- Automated backup scheduling\n- Backup policies and retention rules\n- Support for multiple AWS services including EC2, EBS, RDS, DynamoDB, and more\n\n2",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  },
+  {
+    "id": 28,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) Amazon EKS\n\nExplanation:\nAmazon Elastic Kubernetes Service (EKS) is specifically designed to manage and monitor containerized applications. Here's why it's the best answer:\n\n1. Amazon EKS is a managed Kubernetes service that makes it easy to run Kubernetes on AWS without needing to install, operate, and maintain your own Kubernetes control plane.\n\n2. Key features of Amazon EKS include:",
+    "normalized_answer": "b",
+    "correct_answer": "c",
+    "is_correct": false
+  },
+  {
+    "id": 29,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: d) Delivering content to users with low latency from edge locations\n\nExplanation:\nAWS CloudFront is Amazon's Content Delivery Network (CDN) service that:\n\n1. Speeds up the delivery of static and dynamic web content (such as HTML, CSS, JavaScript, images, and videos) to users\n\n2. Works by distributing content through a worldwide network of data centers called edge locations\n\n3. When a user requests content, Clou",
+    "normalized_answer": "d",
+    "correct_answer": "d",
+    "is_correct": true
+  },
+  {
+    "id": 30,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: c) Amazon EFS\n\nExplanation:\nAmazon Elastic File System (EFS) is AWS's managed file storage service that provides a simple, scalable, and fully managed elastic NFS (Network File System) file system for use with AWS Cloud services and on-premises resources.\n\nKey features of Amazon EFS:\n1. Fully managed service - no need to provision or manage storage infrastructure\n2. Automatically grows and shrinks as you ad",
+    "normalized_answer": "c",
+    "correct_answer": "c",
+    "is_correct": true
+  },
+  {
+    "id": 31,
+    "llm": "claude-3-5-sonnet",
+    "shot": 2,
+    "response": "The correct answer is: b) Amazon SQS\n\nExplanation:\nAmazon Simple Queue Service (SQS) is AWS's fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. Here's why SQS is the correct answer:\n\n1. Key features of Amazon SQS:\n- Fully managed service with no need to manage infrastructure\n- Enables message-based communication between components",
+    "normalized_answer": "b",
+    "correct_answer": "b",
+    "is_correct": true
+  }
+]

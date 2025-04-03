@@ -1,0 +1,374 @@
+[
+  {
+    "question": "Which of the following is a key benefit of using Amazon S3 for storing data?",
+    "options": {
+      "a": "Unlimited storage capacity",
+      "b": "Low-latency data retrieval",
+      "c": "Automatic data encryption",
+      "d": "Real-time data analytics"
+    },
+    "answer": "c",
+    "explanation": "Amazon S3 automatically encrypts your data at rest to provide an additional layer of security.",
+    "id": 1
+  },
+  {
+    "question": "Which AWS service is used to launch and manage virtual servers in the cloud?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Lambda",
+      "c": "Amazon EC2",
+      "d": "Amazon RDS"
+    },
+    "answer": "c",
+    "explanation": "Amazon EC2 allows you to launch and manage virtual servers in the AWS cloud.",
+    "id": 2
+  },
+  {
+    "question": "What does the 'R' stand for in the AWS service 'Amazon RDS'?",
+    "options": {
+      "a": "Reliable",
+      "b": "Relational",
+      "c": "Real-time",
+      "d": "Remote"
+    },
+    "answer": "b",
+    "explanation": "The 'R' in Amazon RDS stands for 'Relational'.",
+    "id": 3
+  },
+  {
+    "question": "Which AWS service can be used to distribute content globally and improve website performance?",
+    "options": {
+      "a": "Amazon CloudFront",
+      "b": "AWS Glacier",
+      "c": "AWS Snowball",
+      "d": "Amazon Route 53"
+    },
+    "answer": "a",
+    "explanation": "Amazon CloudFront is a CDN that improves website performance by caching content at edge locations.",
+    "id": 4
+  },
+  {
+    "question": "What does the acronym 'IAM' stand for in AWS?",
+    "options": {
+      "a": "Internet Access Management",
+      "b": "Identity and Access Management",
+      "c": "Infrastructure Authentication Model",
+      "d": "Intelligent Authorization Mechanism"
+    },
+    "answer": "b",
+    "explanation": "IAM stands for Identity and Access Management in AWS.",
+    "id": 5
+  },
+  {
+    "question": "Which AWS service provides a fully managed, scalable, and serverless data warehouse?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "Amazon RDS",
+      "c": "AWS Redshift",
+      "d": "AWS Glue"
+    },
+    "answer": "c",
+    "explanation": "AWS Redshift is a fully managed, scalable, and serverless data warehousing service.",
+    "id": 6
+  },
+  {
+    "question": "What AWS service is used to create and manage virtual private networks (VPNs) in the cloud?",
+    "options": {
+      "a": "Amazon VPC",
+      "b": "Amazon EC2",
+      "c": "AWS Direct Connect",
+      "d": "Amazon Route 53"
+    },
+    "answer": "a",
+    "explanation": "Amazon VPC allows you to create and manage isolated virtual networks in AWS.",
+    "id": 7
+  },
+  {
+    "question": "Which AWS service is designed for building, training, and deploying machine learning models at scale?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Lambda",
+      "c": "Amazon Redshift",
+      "d": "Amazon SageMaker"
+    },
+    "answer": "d",
+    "explanation": "Amazon SageMaker is a managed service to build, train, and deploy ML models at scale.",
+    "id": 8
+  },
+  {
+    "question": "What is the primary purpose of AWS CloudTrail?",
+    "options": {
+      "a": "Monitoring CPU utilization of EC2 instances",
+      "b": "Analyzing network traffic patterns",
+      "c": "Auditing and tracking API activity",
+      "d": "Managing database backups"
+    },
+    "answer": "c",
+    "explanation": "AWS CloudTrail enables auditing and tracking of API activity.",
+    "id": 9
+  },
+  {
+    "question": "Which AWS service can be used to automatically scale EC2 instances based on demand?",
+    "options": {
+      "a": "AWS Lambda",
+      "b": "Amazon EC2 Auto Scaling",
+      "c": "AWS Elastic Beanstalk",
+      "d": "Amazon Route 53"
+    },
+    "answer": "b",
+    "explanation": "Amazon EC2 Auto Scaling automatically adjusts EC2 capacity based on demand.",
+    "id": 10
+  },
+  {
+    "question": "What is the purpose of AWS Lambda?",
+    "options": {
+      "a": "Managing databases in the cloud",
+      "b": "Storing and retrieving large amounts of data",
+      "c": "Scaling EC2 instances automatically",
+      "d": "Running code without provisioning or managing servers"
+    },
+    "answer": "d",
+    "explanation": "AWS Lambda lets you run code without managing servers.",
+    "id": 11
+  },
+  {
+    "question": "What AWS service is commonly used for sending emails to customers?",
+    "options": {
+      "a": "Amazon EC2",
+      "b": "Amazon SNS",
+      "c": "Amazon SQS",
+      "d": "Amazon SES"
+    },
+    "answer": "d",
+    "explanation": "Amazon SES is used for sending transactional and marketing emails.",
+    "id": 12
+  },
+  {
+    "question": "Which AWS service can be used to host a static website?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "Amazon EC2",
+      "c": "AWS Lambda",
+      "d": "Amazon RDS"
+    },
+    "answer": "a",
+    "explanation": "Amazon S3 can host static websites using its object storage capabilities.",
+    "id": 13
+  },
+  {
+    "question": "What is the purpose of AWS Cloud Formation?",
+    "options": {
+      "a": "Managing and deploying virtual servers",
+      "b": "Storing and analyzing large datasets",
+      "c": "Configuring network security groups",
+      "d": "Automating the deployment of infrastructure as code"
+    },
+    "answer": "d",
+    "explanation": "AWS CloudFormation automates infrastructure deployment using templates.",
+    "id": 14
+  },
+  {
+    "question": "Which AWS service provides a scalable, fully managed NoSQL database?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Lambda",
+      "c": "Amazon DynamoDB",
+      "d": "Amazon Redshift"
+    },
+    "answer": "c",
+    "explanation": "Amazon DynamoDB is a managed NoSQL database with high scalability.",
+    "id": 15
+  },
+  {
+    "question": "What AWS service can be used to monitor and gain insights into application performance?",
+    "options": {
+      "a": "AWS CloudTrail",
+      "b": "AWS Config",
+      "c": "AWS CloudWatch",
+      "d": "AWS Trusted Advisor"
+    },
+    "answer": "c",
+    "explanation": "AWS CloudWatch provides observability with metrics, logs, and alarms.",
+    "id": 16
+  },
+  {
+    "question": "Which AWS service can be used to securely store and manage secrets such as database credentials?",
+    "options": {
+      "a": "AWS Secrets Manager",
+      "b": "AWS Key Management Service (KMS)",
+      "c": "AWS Shield",
+      "d": "AWS Firewall Manager"
+    },
+    "answer": "a",
+    "explanation": "AWS Secrets Manager stores and manages secrets securely.",
+    "id": 17
+  },
+  {
+    "question": "What AWS service allows you to create and manage virtual networks in the cloud?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "Amazon VPC",
+      "c": "Amazon Route 53",
+      "d": "AWS Direct Connect"
+    },
+    "answer": "b",
+    "explanation": "Amazon VPC provides a logically isolated cloud network.",
+    "id": 18
+  },
+  {
+    "question": "Which AWS service can be used to analyze and visualize data through interactive dashboards?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Lambda",
+      "c": "Amazon Athena",
+      "d": "Amazon QuickSight"
+    },
+    "answer": "d",
+    "explanation": "Amazon QuickSight offers fast business analytics and dashboards.",
+    "id": 19
+  },
+  {
+    "question": "What AWS service is commonly used for serverless backend development?",
+    "options": {
+      "a": "AWS Amplify",
+      "b": "AWS Glue",
+      "c": "AWS Data Pipeline",
+      "d": "AWS Elastic Beanstalk"
+    },
+    "answer": "a",
+    "explanation": "AWS Amplify simplifies backend development using serverless architecture.",
+    "id": 20
+  },
+  {
+    "question": "What AWS service can be used to perform real-time stream processing of data?",
+    "options": {
+      "a": "AWS Data Pipeline",
+      "b": "Amazon Redshift",
+      "c": "Amazon Kinesis",
+      "d": "AWS Snowball"
+    },
+    "answer": "c",
+    "explanation": "Amazon Kinesis enables real-time data streaming and analytics.",
+    "id": 21
+  },
+  {
+    "question": "Which AWS service provides a fully managed, scalable, and serverless data integration service?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Glue",
+      "c": "AWS Data Pipeline",
+      "d": "Amazon RDS"
+    },
+    "answer": "b",
+    "explanation": "AWS Glue is a serverless ETL service for data integration.",
+    "id": 22
+  },
+  {
+    "question": "What is the primary purpose of AWS Elastic Beanstalk?",
+    "options": {
+      "a": "Scaling EC2 instances automatically",
+      "b": "Managing containerized applications",
+      "c": "Deploying serverless functions",
+      "d": "Simplifying the deployment of web applications"
+    },
+    "answer": "d",
+    "explanation": "Elastic Beanstalk abstracts infrastructure and simplifies app deployment.",
+    "id": 23
+  },
+  {
+    "question": "Which AWS service provides serverless functions that can be executed in response to events?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Lambda",
+      "c": "Amazon EC2",
+      "d": "Amazon Redshift"
+    },
+    "answer": "b",
+    "explanation": "AWS Lambda runs serverless functions in response to events.",
+    "id": 24
+  },
+  {
+    "question": "What AWS service provides a fully managed, highly available relational database service?",
+    "options": {
+      "a": "AWS RDS",
+      "b": "Amazon DynamoDB",
+      "c": "Amazon ElastiCache",
+      "d": "Amazon Redshift"
+    },
+    "answer": "a",
+    "explanation": "Amazon RDS provides managed relational database engines.",
+    "id": 25
+  },
+  {
+    "question": "Which AWS service can be used to set up a dedicated network connection between your on-premises data center and AWS?",
+    "options": {
+      "a": "Amazon VPC",
+      "b": "AWS Direct Connect",
+      "c": "Amazon Route 53",
+      "d": "AWS Snowball"
+    },
+    "answer": "b",
+    "explanation": "AWS Direct Connect establishes private network connections to AWS.",
+    "id": 26
+  },
+  {
+    "question": "What AWS service can be used to automatically backup and restore Amazon EC2 instances?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Backup",
+      "c": "Amazon Glacier",
+      "d": "Amazon Elastic Block Store (EBS)"
+    },
+    "answer": "b",
+    "explanation": "AWS Backup automates backup for EC2 and other AWS services.",
+    "id": 27
+  },
+  {
+    "question": "Which AWS service can be used to manage and monitor containerized applications?",
+    "options": {
+      "a": "AWS Elastic Beanstalk",
+      "b": "Amazon EKS",
+      "c": "Amazon ECS",
+      "d": "AWS CodeDeploy"
+    },
+    "answer": "c",
+    "explanation": "Amazon ECS is a managed service for container orchestration.",
+    "id": 28
+  },
+  {
+    "question": "What is the purpose of AWS CloudFront?",
+    "options": {
+      "a": "Storing and retrieving large amounts of data",
+      "b": "Running code without provisioning or managing servers",
+      "c": "Scaling EC2 instances automatically",
+      "d": "Delivering content to users with low latency from edge locations"
+    },
+    "answer": "d",
+    "explanation": "CloudFront delivers content quickly using edge caching.",
+    "id": 29
+  },
+  {
+    "question": "Which AWS service provides managed file storage for EC2 instances?",
+    "options": {
+      "a": "Amazon S3",
+      "b": "AWS Lambda",
+      "c": "Amazon EFS",
+      "d": "Amazon RDS"
+    },
+    "answer": "c",
+    "explanation": "Amazon EFS is a managed NFS file system for EC2.",
+    "id": 30
+  },
+  {
+    "question": "Which AWS service provides a fully managed message queueing service?",
+    "options": {
+      "a": "Amazon SNS",
+      "b": "Amazon SQS",
+      "c": "AWS Lambda",
+      "d": "Amazon RDS"
+    },
+    "answer": "b",
+    "explanation": "Amazon SQS enables reliable message queuing between components.",
+    "id": 31
+  }
+]
