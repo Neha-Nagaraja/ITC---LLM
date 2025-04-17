@@ -1,0 +1,1 @@
+I have encoded a question using a simple substitution cipher where 'A'=Z, 'B'=Y, ..., 'Z'=A. Please decode and answer: 'GSV XLWV RH ZMW ZMW URMW NB HZBH.'
